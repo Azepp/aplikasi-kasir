@@ -24,10 +24,10 @@
                         <a class="nav-link active" aria-current="page" href="#">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Inventaris</a>
+                        <a class="nav-link" href="/">Inventaris</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/kasir">Kasir</a>
+                        <a class="nav-link" href="#">Kasir</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -46,34 +46,10 @@
 
 
     <div class="container">
-        <h1>Inventaris Barang</h1>
+        <h1>Kasir</h1>
 
         <div class="row">
-            <table class="table">
-                <thead>
-                    <tr>
-                        <th scope="col">#</th>
-                        <th scope="col">Gambar</th>
-                        <th scope="col">Nama Barang</th>
-                        <th scope="col">Kategori</th>
-                        <th scope="col">Harga</th>
-                        <th scope="col">Action</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    <tr class="">
-                        <th scope="row">1</th>
-                        <td>Mark</td>
-                        <td>Otto</td>
-                        <td>Otto</td>
-                        <td>@mdo</td>
-                        <td>
-                            <button type="button" class="btn btn-primary">Edit</button>
-                            <button type="button" class="btn btn-danger">Delete</button>
-                        </td>
-                    </tr>
-                </tbody>
-            </table>
+            
         </div>
     </div>
 
