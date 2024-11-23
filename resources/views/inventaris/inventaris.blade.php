@@ -4,7 +4,7 @@
     <div class="d-flex align-items-center justify-content-between mb-4">
         <h1>Inventaris Barang</h1>
 
-        <a href="/tambah-barang" class="btn btn-dark">
+        <a href="/inventaris/tambah-barang" class="btn btn-dark">
             <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-plus"
                 viewBox="0 0 16 16">
                 <path
@@ -36,11 +36,13 @@
                     <td>Makanan</td>
                     <td>Rp. 180.000</td>
                     <td>
-                        <button type="button" class="btn btn-primary">Edit</button>
+                        <a href="/inventaris/edit-barang" type="button" class="btn btn-primary">Edit</a>
                         <button type="button" class="btn btn-danger">Delete</button>
                     </td>
                 </tr>
             </tbody>
         </table>
     </div>
+
+    
 @endsection

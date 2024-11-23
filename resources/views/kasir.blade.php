@@ -4,7 +4,7 @@
     <h1>Kasir</h1>
     <div class="row">
         <div class="col-8 border border-2 py-3">
-            <h2 class="">Menu Makanan</h2>
+            <h2 class="">Menu Makanan dan Minuman</h2>
             <hr>
 
             <div class="">
